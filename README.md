@@ -1,3 +1,9 @@
+----
+----
+Desenvolvido por Farpa | Discord farpax | insta @luiz.spacheco 
+----
+----
+
 ADICIONADO  Comando /veinv
 Objetivo: Permite que administradores, moderadores e suporte visualizem o inventário de um jogador específico.
 
